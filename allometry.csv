@@ -1,0 +1,63 @@
+,Group members,Tree #,Species,Diameter (cm),"Condition
+ Excellent/good/fair/poor/dead","Sunlight
+ Full sun/partial sun/full shade",Other notes,Diameter (in),Biomass (Kg) General,Biomass (Kg) eq1,Biomass (Kg) eq2,Biomass (Kg) eq3,Biomass (Kg) eq4,Biomass (Kg) eq5,Biomass (Kg) eq6,Biomass (Kg) eq7,Biomass (Kg) eq8,Biomass (Kg) eq9,Biomass (Kg) BK_eq
+0,Mikey/Rayna,1,Crape Myrtle,57.4,good,partial sun,,22.5984374,1731.668612856412,,,,,,,,,,846.2645339122753
+1,Mikey/Rayna,2,Green Ash,90.2,excellent,full sun,,35.511830200000006,6007.656884992471,7078.74958835696,,,,,,,,,
+2,Mikey/Rayna,3,Cypress,44.3,excellent,partial sun,,17.4409543,686.0788634349774,,,,388.74680858541467,,,,,,
+3,Mikey/Rayna,4,Cypress,50.4,excellent,full sun,,19.8425304,918.2264729319631,,,,512.604854971199,,,,,,
+4,Mikey/Rayna,5,Cypress,55.1,good,partial sun,,21.6929251,1123.1258773949075,,,,620.5786078907887,,,,,,
+5,Mikey/Rayna,6,Cypress,4.9,excellent,full sun,,1.9291349000000002,4.743618188377073,,,,3.4646013002301976,,,,,,
+6,Mikey/Rayna,7,Crape Myrtle,20.3,good,full sun,,7.9921303,144.9007273133936,,,,,,,,,,109.19855892125409
+7,Mikey/Rayna,8,Crape Myrtle,63.8,good,full sun,,25.1181238,2228.616212671937,,,,,,,,,,1042.1889147337902
+8,Mikey/Rayna,9,sawthorn oak,22.0,excellent,full sun,,8.661422,,,,,,,,,,,
+9,Mikey/Rayna,10,blue palmetto,50.9,excellent,full sun,,20.0393809,,,,,,,,,,,
+10,Mikey/Rayna,11,blue palmetto,41.0,excellent,full sun,,16.141741,,,,,,,,,,,
+11,Mikey/Rayna,12,sawthorn oak,29.8,excellent,full sun,,11.7322898,,,,,,,,,,,
+12,Mikey/Rayna,13,Live Oak,112.1,excellent,full sun,,44.1338821,13033.032506237876,14459.631982272842,11956.79866778386,,,,,,,,
+13,Zoë/Guandong,14,Crape Myrtle,20.1,Fair,Partial sun,,7.913390100000001,141.51673556243722,,,,,,,,,,107.08926689469591
+14,Zoë/Guandong,15A,Cocculus laurifolius (laurel leaf); non-native species,19.7,Good,Partial sun,tree has 3 trunks,7.7559097,,,,,,,,,,,
+15,Zoë/Guandong,15B,Cocculus laurifolius (laurel leaf); non-native species,17.2,Good,Partial sun,tree has 3 trunks,6.7716572,,,,,,,,,,,
+16,Zoë/Guandong,15C,Cocculus laurifolius (laurel leaf); non-native species,17.5,Good,Partial sun,tree has 3 trunks,6.8897675000000005,,,,,,,,,,,
+17,Zoë/Guandong,16A,Crape Myrtle,10.9,Good,Partial sun,tree has 4 trunks,4.291340900000001,32.84699121369179,,,,,,,,,,32.07597847272017
+18,Zoë/Guandong,16B,Crape Myrtle,7.5,Good,Partial sun,tree has 4 trunks,2.9527575,13.45793694083283,,,,,,,,,,15.357495660434568
+19,Zoë/Guandong,16C,Crape Myrtle,12.4,Good,Partial sun,tree has 4 trunks,4.881892400000001,44.68268968200541,,,,,,,,,,41.35142042136756
+20,Zoë/Guandong,16D,Crape Myrtle,11.3,Good,Partial sun,tree has 4 trunks,4.4488213000000005,35.79745013074617,,,,,,,,,,34.436122657365885
+21,Zoë/Guandong,17A,Crape Myrtle,13.3,Fair,Partial sun,tree has 4 trunks,5.236223300000001,52.81611871820236,,,,,,,,,,47.47199083163774
+22,Zoë/Guandong,17B,Crape Myrtle,8.0,Fair,Partial sun,tree has 4 trunks,3.149608,15.69909594424632,,,,,,,,,,17.439618759598602
+23,Zoë/Guandong,17C,Crape Myrtle,13.1,Fair,Partial sun,tree has 4 trunks,5.1574831,50.94026184673932,,,,,,,,,,46.07593583744542
+24,Zoë/Guandong,17D,Crape Myrtle,10.2,Fair,Partial sun,tree has 4 trunks,4.0157502,28.034692806517725,,,,,,,,,,28.144403643985026
+25,Zoë/Guandong,18,Magnolia,56.1,Excellent,Partial sun,,22.0866261,,,,,,,,,,,
+26,Zoë/Guandong,19,Magnolia,26.3,Excellent,Partial sun,,10.354336300000002,,,,,,,,,,,
+27,Zoë/Guandong,20,Live Oak,69.9,Excellent,Full sun,,27.519699900000003,4127.830327075174,4147.607514737623,3858.8276995735623,,,,,,,,
+28,Zoë/Guandong,21,Live Oak,41.4,Excellent,Full sun,,16.2992214,1153.4472199378374,1038.3622765358998,1100.9937522364132,,,,,,,,
+29,Zoë/Guandong,22,Live Oak,119.8,Excellent,Full sun,,47.165379800000004,15320.575619843097,17236.13261647036,14018.328823423946,,,,,,,,
+30,Zoë/Guandong,23,Cypress,45.9,Excellent,Full sun,,18.0708759,743.3373597509031,,,,419.4711576292976,,,,,,
+31,Melinda/Asif,24,Pistacia chinesis (chinese pistache),27.3,Good,Partial sun/full shade,,10.748037300000002,,,,,,,,,,,
+32,Melinda/Asif,25A,Red Maple,26.8,Fair/Poor,Full shade,tree has 3 trunks,10.551186800000002,352.5171607922811,413.0655346425088,385.34151978843585,,,,,,,,
+33,Melinda/Asif,25B,Red Maple,33.0,Fair/Poor,Full shade,tree has 3 trunks,12.992133,576.6814495911899,705.7564911707215,626.3119993536819,,,,,,,,
+34,Melinda/Asif,25C,Red Maple,28.5,Fair/Poor,Full shade,tree has 3 trunks,11.2204785,407.7108233506542,483.91676658922324,444.8228618674925,,,,,,,,
+35,Melinda/Asif,26,Cypress,41.4,Excellent,Partial sun,,16.2992214,588.7703243795903,,,,336.22416166027716,,,,,,
+36,Melinda/Asif,27,Persea palustris (swamp redbay),47.0,Good,Partial sun/full shade,,18.503947,,,,,,,,,,,
+37,Melinda/Asif,28,Live Oak,151.5,Fair,Partial sun,,59.6457015,27130.38314881392,32063.505443619593,24593.438074453043,,,,,,,,
+38,Extracted from Google Maps-- Nico/Will,29,Crape Myrtle,15.8,good,full sun,,6.220475800000001,79.6718021943672,,,,,,,,,,66.65061693245089
+39,Extracted from Google Maps-- Nico/Will,30,Chinese Catalpa,171.1,good,partial sun,,67.3622411,,,,,,,,,,,
+40,Extracted from Google Maps-- Nico/Will,31,Cypress,81.9,fair,full sun,,32.24411190000001,2749.8546099357045,,,,1451.547476353227,,,,,,
+41,Extracted from Google Maps-- Nico/Will,32,Live Oak,118.1,excellent,full sun,,46.4960881,14796.745258801317,16596.966954565214,13546.727429991977,,,,,,,,
+42,Extracted from Google Maps-- Nico/Will,33,Live Oak,52.2,excellent,full sun,,20.551192200000003,2027.911671058816,1916.5528953352193,1917.9155932392532,,,,,,,,
+43,Extracted from Google Maps-- Nico/Will,34,Live Oak,105.1,good,partial sun,,41.3779751,11139.88808078421,12193.196736649745,10246.246057381573,,,,,,,,
+44,Extracted from Google Maps-- Nico/Will,35,American Sycamore,27.8,good,partial,,10.9448878,,,,,,,,,,,
+45,Extracted from Google Maps-- Nico/Will,36,Cypress,28.7,good,partial sun,,11.2992187,257.31524816926407,,,,153.28331581609183,,,,,,
+46,Extracted from Google Maps-- Nico/Will,37,Crape Myrtle,73.7,good,partial sun,,29.015763700000004,3144.5204608747667,,,,,,,,,,1384.7158504357938
+47,Extracted from Google Maps-- Nico/Will,38,Cypress,25.9,excellent,partial sun,,10.1968559,204.05421429788834,,,,123.00287210058156,,,,,,
+48,Extracted from Google Maps-- Nico/Will,39,Cypress,76.5,excellent,partial sun,,30.118126500000002,2357.146937019838,,,,1254.0753714034731,,,,,,
+49,Extracted from Google Maps-- Nico/Will,40,Cypress,25.4,excellent,partial sun,,10.0000054,195.26260286411716,,,,117.96818377625453,,,,,,
+50,Extracted from Google Maps-- Nico/Will,41,Cypress,24.9,good,partial sun,,9.803154900000001,186.68623904679916,,,,113.04560131461041,,,,,,
+51,Extracted from Google Maps-- Nico/Will,42,Crape Myrtle,26.7,good,full shade,,10.5118167,278.69180552306767,,,,,,,,,,187.36000843469955
+52,Extracted from Google Maps-- Nico/Will,43,Cypress,23.2,fair,partial sun,,9.1338632,159.12162198695393,,,,97.14301510056995,,,,,,
+53,Extracted from Google Maps-- Nico/Will,44,Cypress,41.0,excellent,partial sun,,16.141741,575.9967469930148,,,,329.2980799654316,,,,,,
+54,Extracted from Google Maps-- Nico/Will,45,Chinese Fan Palm,13.3,poor,full shade,,5.236223300000001,,,,,,,,,,,
+55,Extracted from Google Maps-- Nico/Will,46,Pistacia Chinensis,27.3,Good,Full Shade,,10.748037300000002,,,,,,,,,,,
+56,Extracted from Google Maps-- Nico/Will,47,Red Maple,88.3,Fair,Full Shade,,34.7637983,5914.122587228973,8890.022313094823,6229.475452221595,,,,,,,,
+57,Extracted from Google Maps-- Nico/Will,48,Cypress,41.4,Very Good,Partial Sun,,16.2992214,588.7703243795903,,,,336.22416166027716,,,,,,
+58,Extracted from Google Maps-- Nico/Will,49,Swamp Redbay,47.0,Good,Partial Shade,,18.503947,,,,,,,,,,,
+59,Extracted from Google Maps-- Nico/Will,50,Live Oak,151.5,Fair,Full Sun,,59.6457015,27130.38314881392,32063.505443619593,24593.438074453043,,,,,,,,
